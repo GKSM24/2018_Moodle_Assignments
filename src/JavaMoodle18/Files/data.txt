@@ -1,0 +1,4 @@
+Some editors are programmable, meaning, e.g., they can be customized for specific uses.
+With a programmable editor it is easy to automate repetitive tasks or, add new functionality or even implement a new application within the framework of the editor.
+One common motive for customizing is to make a text editor use the commands of another text editor with which the user is more familiar, or to duplicate missing functionality the user has come to depend on.
+Software developers often use editor customizations tailored to the programming language or development environment they are working in.
